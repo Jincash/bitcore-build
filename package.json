@@ -1,34 +1,34 @@
 {
-  "name": "bitcore-build",
+  "name": "botcore-build",
   "version": "0.9.0",
-  "description": "A helper for common tasks to build bitcore modules'",
+  "description": "A helper for common tasks to build botcore modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bitpay/bitcore-build"
+    "url": "git://github.com/botcoin-core/botcore-build"
   },
   "keywords": [
-    "bitcore"
+    "botcore"
   ],
   "contributors": [
     {
       "name": "Esteban Ordano",
-      "email": "esteban@bitpay.com"
+      "email": "esteban@botcoin-core.com"
     },
     {
       "name": "Manuel Araoz",
-      "email": "maraoz@bitpay.com"
+      "email": "maraoz@botcoin-core.com"
     },
     {
       "name": "Braydon Fuller",
-      "email": "braydon@bitpay.com"
+      "email": "braydon@botcoin-core.com"
     },
     {
       "name": "Yemel Jardi",
-      "email": "yemel@bitpay.com"
+      "email": "yemel@botcoin-core.com"
     },
     {
       "name": "Matias Alejo Garcia",
@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-build/issues"
+    "url": "https://github.com/botcoin-core/botcore-build/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcore-build",
+  "homepage": "https://github.com/botcoin-core/botcore-build",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
